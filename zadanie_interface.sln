@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie_interface", "zadanie_interface\zadanie_interface.csproj", "{0A56BE7C-8087-4AA9-A4FF-21B58868AA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstrakcyjna", "ConsoleApp1\abstrakcyjna.csproj", "{77CB923B-91AF-4B48-8137-FB0473028E4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0A56BE7C-8087-4AA9-A4FF-21B58868AA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A56BE7C-8087-4AA9-A4FF-21B58868AA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A56BE7C-8087-4AA9-A4FF-21B58868AA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CB923B-91AF-4B48-8137-FB0473028E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CB923B-91AF-4B48-8137-FB0473028E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CB923B-91AF-4B48-8137-FB0473028E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CB923B-91AF-4B48-8137-FB0473028E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
